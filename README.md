@@ -2,6 +2,8 @@
 
 **Kayatech** presents **Kayabot** — An interactive app to **raise awareness about climate change** using real NASA data.
 
+You can visit the prototype site [here](https://kayatechstoryteller.my.canva.site/)!
+
 ## 🚀 About Us
 
 We are **Excelsior**, a visionary team participating in the **NASA Space Apps Challenge 2024**. Driven by our passion for technology and the environment, we built **Kayabot**, an app designed to raise awareness about the impact of climate change on our planet.
